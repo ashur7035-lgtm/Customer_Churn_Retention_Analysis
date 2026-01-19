@@ -27,12 +27,19 @@ CustomerID, Age, Gender, Tenure, MonthlyCharges, ContractType, InternetService, 
 
 ## 📁 Structure  
 Customer-Churn-Retention-Analysis/
+│
 ├── Dataset/
+│
 ├── Excel_Analysis/
+│
 ├── SQL_Queries/
+│
 ├── Python_Analysis/
+│
 ├── PowerBI_Dashboard/
+│
 ├── Screenshots/
+│ 
 └── README.md
 
 ---
