@@ -55,9 +55,6 @@ Customer-Churn-Retention-Analysis/
 │   └── PowerBI_Dashboard.png
 │
 └── README.md
-
----
-
 ## 🔄 Workflow  
 Data Cleaning → SQL Analysis → Python EDA → Power BI Dashboard → Insights.
 
