@@ -27,31 +27,32 @@ CustomerID, Age, Gender, Tenure, MonthlyCharges, ContractType, InternetService, 
 
 ## 📁 Project Structure
 
+```text
 Customer-Churn-Retention-Analysis/
 │
 ├── Dataset/
-│ ├── churn.csv
-│ ├── Data_Dictionary.md
-│ └── Business_Questions.md
+│   ├── churn.csv
+│   ├── Data_Dictionary.md
+│   └── Business_Questions.md
 │
 ├── Excel_Analysis/
-│ ├── Churn_Raw.xlsx
-│ ├── Churn_Cleaned.xlsx
-│ └── Excel_Dashboard.xlsx
+│   ├── Churn_Raw.xlsx
+│   ├── Churn_Cleaned.xlsx
+│   └── Excel_Dashboard.xlsx
 │
 ├── SQL_Queries/
-│ ├── basic_queries.sql
-│ └── churn_analysis.sql
+│   ├── basic_queries.sql
+│   └── churn_analysis.sql
 │
 ├── Python_Analysis/
-│ └── churn_analysis.ipynb
+│   └── churn_analysis.ipynb
 │
 ├── PowerBI_Dashboard/
-│ └── churn_dashboard.pbix
+│   └── churn_dashboard.pbix
 │
 ├── Screenshots/
-│ ├── Excel_Dashboard.png
-│ └── PowerBI_Dashboard.png
+│   ├── Excel_Dashboard.png
+│   └── PowerBI_Dashboard.png
 │
 └── README.md
 
