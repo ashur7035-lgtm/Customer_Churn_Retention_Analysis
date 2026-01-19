@@ -26,6 +26,7 @@ CustomerID, Age, Gender, Tenure, MonthlyCharges, ContractType, InternetService, 
 ---
 
 ## 📁 Structure  
+
 Customer-Churn-Retention-Analysis/
 │
 ├── Dataset/
@@ -56,5 +57,12 @@ Data Cleaning → SQL Analysis → Python EDA → Power BI Dashboard → Insight
 
 ---
 
-## 👤 Author  
-**Ashu Rajput** – Aspiring Data Analyst  
+## ✅ Project Outcomes
+
+- Identified key customer segments with high churn risk.  
+- Found that **month-to-month contract customers churn the most**.  
+- Observed that customers without **TechSupport** are more likely to leave.  
+- Discovered that **high MonthlyCharges with low Tenure** leads to higher churn.  
+- Built an interactive Power BI dashboard to monitor churn KPIs.  
+- Provided data-driven retention strategies for business teams.  
+
