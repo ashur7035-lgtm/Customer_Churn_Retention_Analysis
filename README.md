@@ -28,7 +28,7 @@ CustomerID, Age, Gender, Tenure, MonthlyCharges, ContractType, InternetService, 
 ## 📁 Project Structure
 
 ```text
-Customer-Churn-Retention-Analysis/
+Customer_Churn_Retention_Analysis/
 │
 ├── Dataset/
 │   ├── churn.csv
