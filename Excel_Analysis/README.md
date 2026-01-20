@@ -19,4 +19,4 @@ Is project mein maine raw customer churn dataset ko Excel ka use karke ek intera
 - **Insight:** Month-to-Month contract aur Tech Support na hone ki wajah se log zyada churn ho rahe hain.
 
 ## 🖼️ Dashboard Preview
-![Customer Churn Dashboard](../Screenshots/Excel_Dashboard.png)
+![Customer Churn Dashboard](../Screenshots/.png)
