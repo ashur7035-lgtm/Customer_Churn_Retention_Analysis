@@ -41,6 +41,3 @@ SQL_Queries/
 
 SQL results are later connected to Power BI to build interactive churn dashboards.
 
-✔ Clean
-✔ Professional
-✔ Recruiter-friendly
