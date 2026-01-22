@@ -1,19 +1,24 @@
 # 📊 Customer Churn & Retention Analysis  
 
-End-to-end analysis of customer churn to identify risk segments and improve retention using **Excel, MySQL, Python, and Power BI**.
+End-to-end telecom churn analysis to identify high-risk customer segments and improve retention using **Excel, MySQL, Python, and Power BI**.
 
 ---
 
 ## 🎯 Objective  
-Analyze customer behavior to understand why customers leave and suggest data-driven retention strategies.
+Identify churn drivers, quantify risk segments, and recommend actionable, data-driven retention strategies for telecom businesses.
 
 ---
 
 ## 📂 Dataset  
-Customer demographics, services, billing, and churn status.
+The dataset represents telecom customer behavior including demographics, contract details, service usage, billing information, and churn status.
 
 Columns:  
 CustomerID, Age, Gender, Tenure, MonthlyCharges, ContractType, InternetService, TotalCharges, TechSupport, Churn.
+
+---
+
+## 🔄 Workflow  
+Data Cleaning → Feature Engineering → SQL Business Analysis → Python EDA & Modeling → Power BI Dashboard → Business Insights & Recommendations.
 
 ---
 
@@ -55,9 +60,6 @@ Customer_Churn_Retention_Analysis/
 │
 └── README.md
 ```
-## 🔄 Workflow  
-Data Cleaning → SQL Analysis → Python EDA → Power BI Dashboard → Insights.
-
 ---
 
 ## 📈 Key Insights  
@@ -72,7 +74,12 @@ Data Cleaning → SQL Analysis → Python EDA → Power BI Dashboard → Insight
 - Identified key customer segments with high churn risk.  
 - Found that **month-to-month contract customers churn the most**.  
 - Observed that customers without **TechSupport** are more likely to leave.  
-- Discovered that **high MonthlyCharges with low Tenure** leads to higher churn.  
+- Discovered that **high MonthlyCharges with low Tenure Lead** to higher churn.  
 - Built an interactive Power BI dashboard to monitor churn KPIs.  
 - Provided data-driven retention strategies for business teams.  
 
+---
+
+## 👨‍💻 Author  
+**Ashu**  
+Aspiring Data Analyst | Excel • SQL • Python • Power BI  
