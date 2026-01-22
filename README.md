@@ -74,7 +74,7 @@ Customer_Churn_Retention_Analysis/
 - Identified key customer segments with high churn risk.  
 - Found that **month-to-month contract customers churn the most**.  
 - Observed that customers without **TechSupport** are more likely to leave.  
-- Discovered that **high MonthlyCharges with low Tenure Lead** to higher churn.  
+- Discovered that **high MonthlyCharges with low Tenure lead** to higher churn.  
 - Built an interactive Power BI dashboard to monitor churn KPIs.  
 - Provided data-driven retention strategies for business teams.  
 
