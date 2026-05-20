@@ -16,6 +16,3 @@
  SELECT Churn,Count(*) from churn_data group by Churn;
  SELECT Gender, COUNT(*) FROM churn_data GROUP BY Gender;
  SELECT ContractType, COUNT(*) FROM churn_data GROUP BY ContractType;
-
- 
- 
