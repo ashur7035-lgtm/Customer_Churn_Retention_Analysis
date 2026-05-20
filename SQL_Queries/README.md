@@ -38,7 +38,7 @@ Here are the critical business insights extracted from the dataset using SQL que
 
 ### 1. Dataset Structure & Validation
 * **Insight:** The dataset was successfully imported into MySQL, containing 10 key attributes covering customer demographics, account details, services, and churn status for initial data exploration.
-* **SQL Proof:** ![Dataset Preview](PASTE_YOUR_DATASET_PREVIEW_SCREENSHOT_LINK_HERE)
+* **SQL Proof:** ![Dataset Preview](../Screenshots/SQL%20Screenshots/Data_Preview.png)
 
 ### 2. Overall Churn Status (Main KPI)
 * **Insight:** This metric establishes the baseline churn rate for the business, highlighting the exact volume of lost customers versus retained ones to measure the financial impact.
