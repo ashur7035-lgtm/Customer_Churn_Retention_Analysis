@@ -34,19 +34,27 @@ SQL_Queries/
 
 ## 📊 Key Business Insights & SQL Proof
 
-Here are the critical business findings extracted directly using the SQL queries:
+Here are the critical business insights extracted from the dataset using SQL queries, along with the visual proof from the database execution:
 
-### 1. High Churn in Month-to-Month Contracts
-* **Insight:** Customers with month-to-month contracts show the highest churn rate. Long-term contracts (1-2 years) are much more stable.
-* **SQL Proof:** *(Yahan par apna CONTRACT TYPE ANALYSIS wali query ke result ka screenshot lagayein)*
+### 1. Dataset Structure & Validation
+* **Insight:** The dataset was successfully imported into MySQL, containing 10 key attributes covering customer demographics, account details, services, and churn status for initial data exploration.
+* **SQL Proof:** ![Dataset Preview](PASTE_YOUR_DATASET_PREVIEW_SCREENSHOT_LINK_HERE)
 
-### 2. High-Risk Customer Segment (The Danger Zone)
-* **Insight:** New customers (Tenure < 12 months) who have high monthly charges (> 80) and month-to-month contracts are at the highest risk of churning.
-* **SQL Proof:** *(Yahan par apna HIGH RISK CUSTOMER SEGMENT wali query ke result ka screenshot lagayein)*
+### 2. Overall Churn Status (Main KPI)
+* **Insight:** This metric establishes the baseline churn rate for the business, highlighting the exact volume of lost customers versus retained ones to measure the financial impact.
+* **SQL Proof:** ![Overall Churn Rate](PASTE_YOUR_CHURN_RATE_SCREENSHOT_LINK_HERE)
 
-### 3. Impact of Technical Support
-* **Insight:** Customers who do not have online technical support churn at a significantly higher rate, indicating a need for better customer onboarding.
-* **SQL Proof:** *(Yahan par apna TECH SUPPORT ANALYSIS wali query ke result ka screenshot lagayein)*
+### 3. High Churn in Month-to-Month Contracts
+* **Insight:** Customers on Month-to-Month contracts show a significantly higher churn rate compared to those on 1-year or 2-year plans. Transitioning these customers to longer-term contracts should be a priority retention strategy.
+* **SQL Proof:** ![Contract Type Analysis](PASTE_YOUR_CONTRACT_ANALYSIS_SCREENSHOT_LINK_HERE)
+
+### 4. The 1-Year Danger Zone (Tenure Analysis)
+* **Insight:** New customers within their first year (0-12 months of tenure) are highly vulnerable and exhibit the highest churn rate. Loyalty increases drastically after 2+ years, indicating a need for a stronger early onboarding process.
+* **SQL Proof:** ![Tenure Group Analysis](PASTE_YOUR_TENURE_ANALYSIS_SCREENSHOT_LINK_HERE)
+
+### 5. High-Risk Customer Segment Identification
+* **Insight:** By combining multiple risk factors, this targeted list isolates the most critical segment: customers on Month-to-Month contracts with low tenure (< 12 months) who are paying high monthly charges (> $80) and have already churned. This helps identify the exact persona of customers we are losing.
+* **SQL Proof:** ![High Risk Segment](PASTE_YOUR_HIGH_RISK_SCREENSHOT_LINK_HERE)
 
 ---
 🧠 Skills Demonstrated
