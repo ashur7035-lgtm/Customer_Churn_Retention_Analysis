@@ -30,6 +30,25 @@ SQL_Queries/
 - Monthly charges vs churn
 - Used to identify high-risk customer segments for retention strategy.
 
+---
+
+## 📊 Key Business Insights & SQL Proof
+
+Here are the critical business findings extracted directly using the SQL queries:
+
+### 1. High Churn in Month-to-Month Contracts
+* **Insight:** Customers with month-to-month contracts show the highest churn rate. Long-term contracts (1-2 years) are much more stable.
+* **SQL Proof:** *(Yahan par apna CONTRACT TYPE ANALYSIS wali query ke result ka screenshot lagayein)*
+
+### 2. High-Risk Customer Segment (The Danger Zone)
+* **Insight:** New customers (Tenure < 12 months) who have high monthly charges (> 80) and month-to-month contracts are at the highest risk of churning.
+* **SQL Proof:** *(Yahan par apna HIGH RISK CUSTOMER SEGMENT wali query ke result ka screenshot lagayein)*
+
+### 3. Impact of Technical Support
+* **Insight:** Customers who do not have online technical support churn at a significantly higher rate, indicating a need for better customer onboarding.
+* **SQL Proof:** *(Yahan par apna TECH SUPPORT ANALYSIS wali query ke result ka screenshot lagayein)*
+
+---
 🧠 Skills Demonstrated
 
 - Aggregations & segmentation
