@@ -181,19 +181,3 @@ WHERE ContractType = 'Month-to-month'
 AND MonthlyCharges > 80
 AND Tenure < 12
 AND Churn = 'Yes';
-
--- BUSINESS INSIGHTS
-
-/*
-1. Customers with month-to-month contracts show higher churn.
-
-2. Customers with high monthly charges are more likely to leave.
-
-3. Low tenure customers churn the most.
-
-4. Customers without tech support have higher churn rates.
-
-5. Fiber optic internet users show higher churn.
-
-6. Long-term customers are more likely to stay.
-*/
