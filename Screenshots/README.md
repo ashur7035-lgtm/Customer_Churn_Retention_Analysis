@@ -21,43 +21,40 @@ In this initial phase, I focused on transforming raw customer data into a manage
 ## 📊 Phase 2: SQL Analysis Screenshots
 This folder contains screenshots from the SQL analysis phase of the Customer Churn & Retention Analysis project.
 
-The screenshots demonstrate:
-- SQL query execution
-- Churn analysis
-- Customer segmentation
-- KPI calculations
-- Business insights
+The screenshots include:
+- Data Preview
+- Overall Churn Rate
+- Contract Type Analysis
+- Tech Support Analysis
+- Internet Service Analysis
+- Tenure Group Analysis
+- Monthly Charges Analysis
+- High Risk Customer Segment
+
+## 📌 Key Insights
+- Month-to-Month customers showed higher churn.
+- Customers without Tech Support were more likely to leave.
+- High monthly charges increased churn probability.
+- Low tenure customers had higher churn risk.
+
+- ---
+## 📊 Phase 3: Python Analysis Screenshots
+
+This folder contains screenshots from the Python analysis phase of the Customer Churn & Retention Analysis project.
+
+The screenshots include:
+- Churn Distribution
+- Contract Type vs Churn
+- Monthly Charges vs Churn
+- Internet Service Analysis
+- Tech Support Analysis
+- Correlation Heatmap
+- Logistic Regression Results
+
+## 📌 Key Insights
+- Customers with low tenure showed higher churn.
+- Higher monthly charges increased churn probability.
+- Customers without Tech Support were more likely to churn.
+- Month-to-Month contracts had higher churn rates.
 
 ---
-
-## 📊 Included Screenshots
-
-## 🔹 Overall Churn Rate
-Shows the percentage of customers who churned.
-
-## 🔹 Contract Type Analysis
-Analyzes churn behavior based on contract types.
-
-## 🔹 Tech Support Analysis
-Shows the impact of tech support on customer churn.
-
-## 🔹 Internet Service Analysis
-Displays churn patterns across internet services.
-
-## 🔹 Tenure Group Analysis
-Segments customers based on their tenure.
-
-## 🔹 Monthly Charges Analysis
-Analyzes churn based on customer monthly charges.
-
-## 🔹 Revenue Analysis
-Displays customer revenue metrics.
-
----
-
-# 📌 Key Findings
-
-- Customers with month-to-month contracts have higher churn rates.
-- Customers paying higher monthly charges are more likely to churn.
-- Long-term customers show better retention.
-- Tech support plays a significant role in customer retention.
