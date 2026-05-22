@@ -18,3 +18,46 @@ In this initial phase, I focused on transforming raw customer data into a manage
 ![Excel Dashboard](Excel_Dashboards.png)
 
 ---
+## 📊 Phase 2: SQL Analysis Screenshots
+This folder contains screenshots from the SQL analysis phase of the Customer Churn & Retention Analysis project.
+
+The screenshots demonstrate:
+- SQL query execution
+- Churn analysis
+- Customer segmentation
+- KPI calculations
+- Business insights
+
+---
+
+## 📊 Included Screenshots
+
+## 🔹 Overall Churn Rate
+Shows the percentage of customers who churned.
+
+## 🔹 Contract Type Analysis
+Analyzes churn behavior based on contract types.
+
+## 🔹 Tech Support Analysis
+Shows the impact of tech support on customer churn.
+
+## 🔹 Internet Service Analysis
+Displays churn patterns across internet services.
+
+## 🔹 Tenure Group Analysis
+Segments customers based on their tenure.
+
+## 🔹 Monthly Charges Analysis
+Analyzes churn based on customer monthly charges.
+
+## 🔹 Revenue Analysis
+Displays customer revenue metrics.
+
+---
+
+# 📌 Key Findings
+
+- Customers with month-to-month contracts have higher churn rates.
+- Customers paying higher monthly charges are more likely to churn.
+- Long-term customers show better retention.
+- Tech support plays a significant role in customer retention.
