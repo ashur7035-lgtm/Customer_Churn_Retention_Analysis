@@ -15,7 +15,7 @@ In this initial phase, I focused on transforming raw customer data into a manage
 - **Insight 3:** Churned customers often had higher **Monthly Charges** compared to retained ones.
 
 ### 🖼️ Dashboard Preview
-![Excel Dashboard](Screenshots/Excel Screenshots/Excel_Dashboards.png)
+![Excel Dashboard](Screenshots/Excel20%Screenshots/Excel_Dashboards.png)
 
 ---
 ## 📊 Phase 2: SQL Analysis Screenshots
