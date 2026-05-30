@@ -17,8 +17,21 @@ CustomerID, Age, Gender, Tenure, MonthlyCharges, ContractType, InternetService, 
 
 ---
 
-## 🔄 Workflow  
-Data Cleaning → Feature Engineering → SQL Business Analysis → Python EDA & Modeling → Power BI Dashboard → Business Insights & Recommendations.
+## 🔄 Workflow
+
+Raw Dataset
+    →
+Excel Data Analysis & Dashboard
+    →
+SQL Business Analysis
+    →
+Python Data Cleaning & EDA
+    →
+Churn Prediction Modeling
+    →
+Power BI Dashboard
+    →
+Business Insights & Recommendations
 
 ---
 
