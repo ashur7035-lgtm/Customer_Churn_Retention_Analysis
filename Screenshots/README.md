@@ -64,9 +64,9 @@ This folder contains screenshots from the Power BI dashboard created for the Cus
 
 ### Included Screenshots
 
-* ![Full Dashboard Overview](Python_Screenshots/1.png)
-* ![Contract & Tenure Analysis](Python_Screenshots/2.png)
-* ![Revenue & Churn Insights](Python_Screenshots/3.png)
+* ![Full Dashboard Overview](PowerBI_Screenshots/1.png)
+* ![Contract & Tenure Analysis](PowerBI_Screenshots/2.png)
+* ![Revenue & Churn Insights](PowerBI_Screenshots/3.png)
 
 ## 📌 Key Insights
 
