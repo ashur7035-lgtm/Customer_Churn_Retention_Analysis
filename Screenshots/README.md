@@ -58,3 +58,21 @@ The screenshots include:
 - Month-to-Month contracts had higher churn rates.
 
 ---
+## 📊 Power BI Dashboard Screenshots
+
+This folder contains screenshots from the Power BI dashboard created for the Customer Churn & Retention Analysis project.
+
+### Included Screenshots
+
+* Full Dashboard Overview
+* Contract & Tenure Analysis
+* Revenue & Churn Insights
+
+## 📌 Key Insights
+
+* Month-to-Month customers showed the highest churn.
+* Low-tenure customers were more likely to leave.
+* Customers without Tech Support had higher churn rates.
+* Higher Monthly Charges increased churn probability.
+* Fiber Optic users showed elevated churn behavior.
+
