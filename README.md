@@ -1,6 +1,6 @@
 # 📊 Customer Churn & Retention Analysis  
 
-End-to-end telecom churn analysis to identify high-risk customer segments and improve retention using **Excel, MySQL, Python (ML), and Power BI**.
+End-to-end telecom churn analysis to identify high-risk customer segments and improve retention using **Excel, SQL, Python (ML), and Power BI**.
 
 ---
 
