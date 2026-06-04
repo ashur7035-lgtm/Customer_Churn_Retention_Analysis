@@ -53,21 +53,21 @@ The analysis provides interactive insights into customer demographics, contract 
 
 ## 📌 Key Insights
 
-* Month-to-Month customers showed the highest churn.
-* Customers with low tenure were more likely to leave.
-* Customers without Tech Support had higher churn rates.
-* Higher Monthly Charges increased churn probability.
-* Fiber Optic users showed elevated churn behavior.
-
+* **Month-to-Month Churn:** Month-to-month customers are the primary churn driver, contributing to 57.9% of total churn.
+* **Early Customer Attrition:** 55% of churn occurs within the first 12 months, highlighting that retaining new customers is a major challenge.
+* **Tech Support Impact:** Customers without tech support have a churn rate of 44.1%, identifying them as a high-risk segment.
+* **High-Charge Sensitivity:** Customers with higher monthly charges show a higher probability of churn.
+* **Fiber Optic Challenges:** Fiber optic users show elevated churn behavior despite being the premium service tier.
+  
 ---
 
 ## 💡 Business Recommendations
 
-* Encourage long-term contracts through discounts.
-* Improve onboarding for new customers.
-* Strengthen technical support services.
-* Provide loyalty and retention programs.
-* Address issues affecting Fiber Optic customers.
+* **Contract Migration:** Launch a "Switch to Annual" campaign offering a 20% discount to incentivize month-to-month customers to move to annual plans.
+* **Onboarding Strategy:** Implement proactive check-ins at Month 1, Month 3, and Month 6 to reduce first-year attrition.
+* **Value Addition:** Make tech support a default bundle for all new plans to help lower early churn risk.
+* **Loyalty & Retention:** Introduce specific loyalty rewards for high-charge customers to improve their lifetime value.
+* **Service Quality Audit:** Conduct a service quality audit and user survey specifically for fiber optic customers to identify and fix dissatisfaction points.
 
 ---
 
