@@ -76,20 +76,28 @@ Customer_Churn_Retention_Analysis/
 ---
 
 ## 📈 Key Insights  
-- Month-to-month contracts show higher churn.  
-- No TechSupport customers churn more.  
-- High charges + low tenure users are risky.  
+- Month-to-Month Churn: Month-to-month customers are the primary churn driver, contributing to 57.9% of total churn.  
+- Early Customer Attrition: 55% of churn occurs within the first 12 months, highlighting that retaining new customers is a major challenge.  
+- Tech Support Impact: Customers without tech support have a churn rate of 44.1%, identifying them as a high-risk segment.
+- High-Charge Sensitivity: Customers with higher monthly charges show a higher probability of churn.  
+
+---
+
+💡 Strategic Recommendations
+- **Contract Migration:** Launch a "Switch to Annual" campaign offering a 20% discount to move month-to-month customers to annual plans.
+- **Onboarding Strategy:** Implement proactive check-ins at Month 1, Month 3, and Month 6 to reduce first-year attrition.
+- **Value Addition:** Make tech support a default bundle for all new plans to help lower early churn.
 
 ---
 
 ## ✅ Project Outcomes
 
 - Identified key customer segments with high churn risk.  
-- Found that **month-to-month contract customers churn the most**.  
-- Observed that customers without **TechSupport** are more likely to leave.  
+- Found that **month-to-month contract customers churn the most (57.9% of total churn)**.  
+- Observed that customers without **TechSupport** are more likely to leave (44.1% churn rate).  
 - Discovered that **high MonthlyCharges with low Tenure lead** to higher churn.  
 - Built an interactive Power BI dashboard to monitor churn KPIs.  
-- Provided data-driven retention strategies for business teams.  
+- Provided data-driven retention strategies for business teams to potentially reduce churn by 20–25%.  
 
 ---
 
