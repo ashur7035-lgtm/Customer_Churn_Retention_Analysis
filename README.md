@@ -83,7 +83,7 @@ Customer_Churn_Retention_Analysis/
 
 ---
 
-💡 Strategic Recommendations
+##💡 Strategic Recommendations
 - **Contract Migration:** Launch a "Switch to Annual" campaign offering a 20% discount to move month-to-month customers to annual plans.
 - **Onboarding Strategy:** Implement proactive check-ins at Month 1, Month 3, and Month 6 to reduce first-year attrition.
 - **Value Addition:** Make tech support a default bundle for all new plans to help lower early churn.
