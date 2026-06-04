@@ -70,9 +70,8 @@ This folder contains screenshots from the Power BI dashboard created for the Cus
 
 ## 📌 Key Insights
 
-* Month-to-Month customers showed the highest churn.
-* Low-tenure customers were more likely to leave.
-* Customers without Tech Support had higher churn rates.
-* Higher Monthly Charges increased churn probability.
-* Fiber Optic users showed elevated churn behavior.
+* **Month-to-Month Churn:** Month-to-month customers are the primary churn driver, contributing to 57.9% of total churn.
+* **Early Customer Attrition:** 55% of churn occurs within the first 12 months, highlighting that retaining new customers is a major challenge.
+* **Tech Support Impact:** Customers without tech support have a churn rate of 44.1%, identifying them as a high-risk segment.
+* **High-Charge Sensitivity:** Customers with higher monthly charges show a higher probability of churn.
 
