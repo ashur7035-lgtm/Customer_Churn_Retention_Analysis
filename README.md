@@ -76,10 +76,10 @@ Customer_Churn_Retention_Analysis/
 ---
 
 ## 📈 Key Insights  
-- Month-to-Month Churn: Month-to-month customers are the primary churn driver, contributing to 57.9% of total churn.  
-- Early Customer Attrition: 55% of churn occurs within the first 12 months, highlighting that retaining new customers is a major challenge.  
-- Tech Support Impact: Customers without tech support have a churn rate of 44.1%, identifying them as a high-risk segment.
-- High-Charge Sensitivity: Customers with higher monthly charges show a higher probability of churn.  
+- **Month-to-Month Churn:** Month-to-month customers are the primary churn driver, contributing to 57.9% of total churn.  
+- **Early Customer Attrition:** 55% of churn occurs within the first 12 months, highlighting that retaining new customers is a major challenge.  
+- **Tech Support Impact:** Customers without tech support have a churn rate of 44.1%, identifying them as a high-risk segment.
+- **High-Charge Sensitivity:** Customers with higher monthly charges show a higher probability of churn.  
 
 ---
 
