@@ -62,7 +62,8 @@ Customer_Churn_Retention_Analysis/
 │   └── churn_analysis.sql
 │
 ├── Python_Analysis/
-│   └── churn_analysis.ipynb
+│   ├── churn_analysis.ipynb
+│   └── churned_cleaned.csv
 │
 ├── PowerBI_Dashboard/
 │   └── churn_dashboard.pbix
