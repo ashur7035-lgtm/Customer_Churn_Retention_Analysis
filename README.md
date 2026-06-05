@@ -55,7 +55,7 @@ Customer_Churn_Retention_Analysis/
 │
 ├── Excel_Analysis/
 │   ├── Churn_Raw.xlsx
-│   └── Churn_Analysis_Excel_Dashboard.xlsx
+│   └── Churn_Analysis_Dashboard.xlsx
 │
 ├── SQL_Queries/
 │   ├── basic_queries.sql
