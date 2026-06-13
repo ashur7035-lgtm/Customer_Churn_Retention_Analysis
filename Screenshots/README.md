@@ -65,7 +65,7 @@ This folder contains screenshots from the Power BI dashboard created for the Cus
 ### Included Screenshots
 
 ### 🖼️ Full Dashboard Overview 
-![Full Dashboard Overview](PowerBI_Screenshots/Full_Dashbaord_Overview.jpg)
+![Full Dashboard Overview](PowerBI_Screenshots/Full_Dashboard_Overview.jpg)
   
 * ### 🖼️ Contract & Tenure Analysis
  ![Contract & Tenure Analysis](PowerBI_Screenshots/Contract_&_Tenure_Analysis.png)
