@@ -90,7 +90,7 @@ Customer_Churn_Retention_Analysis/
 
 To transform raw data into actionable intelligence, I developed an interactive Power BI dashboard to monitor key churn KPIs and segment high-risk customers.
 
-![Power BI Dashboard](Screenshots/PowerBI_Screenshots/Full_Dashbaord_Overview.png)
+![Power BI Dashboard](Screenshots/PowerBI_Screenshots/Full_Dashboard_Overview.jpg)
 
 > **Key Capabilities:** The dashboard enables stakeholders to filter churn data by contract type, tenure, and demographics, providing a clear path to data-driven retention strategies.
 
