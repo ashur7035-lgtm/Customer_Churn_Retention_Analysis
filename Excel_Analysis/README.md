@@ -1,22 +1,22 @@
 # 📊 Excel Data Analysis & Interactive Dashboard
 
-Is project mein maine raw customer churn dataset ko Excel ka use karke ek interactive dashboard mein convert kiya hai taaki business insights asani se mil saken.
+In this project, I transformed a raw customer churn dataset into an interactive dashboard using Excel to extract actionable business insights.
 
 ## 🎯 Project Goals
-- Data ko clean aur prepare karna.
-- Churn risk wale segments ko identify karna.
-- Management view ke liye ek interactive dashboard banana.
+- Clean and prepare raw data for analysis.
+- Identify segments at high risk of churn.
+- Develop an interactive dashboard for management-level reporting.
 
 ## 🛠️ Key Steps Performed
-1. **Data Cleaning:** Duplicates remove kiye aur data types (Currency, Number) ko sahi kiya.
-2. **Feature Engineering:** `AgeGroup` aur `TenureGroup` jaise naye columns banaye.
-3. **Pivot Analysis:** Gender, Contract, aur Tech Support ke basis par churn ko analyze kiya.
-4. **Dashboard:** KPI cards aur Charts banaye jo Slicers se filter hote hain.
-
+1. **Data Cleaning:** Removed duplicate entries and standardized data types (Currency, Number, Date).
+2. **Feature Engineering:** Created new derived columns such as AgeGroup and TenureGroup for deeper segmentation.
+3. **Pivot Analysis:** Conducted trend analysis based on Gender, Contract Type, and Tech Support status to identify churn drivers.
+4. **Dashboard:** Built KPI cards and dynamic charts integrated with Slicers for real-time filtering and visualization.
+   
 ## 📈 Dashboard Highlights
 - **Total Customers:** 1000
 - **Churn Rate:** 88%
-- **Insight:** Month-to-Month contract aur Tech Support na hone ki wajah se log zyada churn ho rahe hain.
+- **Insight:** High churn is observed among customers on "Month-to-Month" contracts and those lacking Tech Support services.
 
 ## 🖼️ Dashboard Preview
 ![Customer Churn Dashboard](../Screenshots/Excel_Screenshots/Excel_Dashboards.png)
