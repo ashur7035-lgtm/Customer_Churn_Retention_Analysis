@@ -116,4 +116,4 @@ To transform raw data into actionable intelligence, I developed an interactive P
 
 ## 👨‍💻 Author  
 **Ashu**  
-Aspiring Data Analyst | Excel • SQL • Python • Power BI  
+Aspiring Data Analyst | Excel • SQL • Python(ML) • Power BI  
